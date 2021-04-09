@@ -1,0 +1,75 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-size: 20px 20px;
+    background-image:
+      linear-gradient(to right, rgb(204, 204, 204) 0px, transparent 1px),
+      linear-gradient(to bottom, rgb(204, 204, 204) 0px, transparent 1px);
+  }
+  header {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42, 62, 133);
+  }
+  #survey-form {
+    max-width: 700px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    background-color: rgb(255, 248, 199);
+    padding: 10px;
+  }
+  .survey-item {
+    padding: 10px;
+  }
+  #submit {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    font-family : inherit;
+    font-size: 1em;
+    background-color: #4CAF50; 
+    border: 1px solid rgb(169, 169, 169);
+  }
+  #name {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(169, 169, 169);
+  }
+  #email {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(169, 169, 169);
+  }
+  #number {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(169, 169, 169);
+  }
+  #dropdown {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+  }
+  #comments {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+  }
+  #background {
+    margin-top: 10px;
+  }
+  #yes {
+    margin-top: 10px;
+  }
